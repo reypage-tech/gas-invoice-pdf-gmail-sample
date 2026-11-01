@@ -1,0 +1,6 @@
+sku,name,unit_price,vat_rate
+SKU-WEB01,Webサイト保守(見本),30000,10
+SKU-DSN02,ロゴ作成(見本),50000,10
+SKU-CNS03,導入コンサル(見本),20000,10
+SKU-SNK05,会議用菓子(見本),999,8
+SKU-TEA06,来客用茶葉(見本),2500,8

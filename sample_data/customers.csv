@@ -1,0 +1,4 @@
+customer_id,name,billing_email,vat_status
+C-001,架空商事株式会社,billing@example.com,STD
+C-002,見本デザイン事務所,,STD
+C-003,さくら商店(見本),,REDUCED

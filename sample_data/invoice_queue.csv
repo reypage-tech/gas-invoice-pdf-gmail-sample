@@ -1,0 +1,4 @@
+invoice_number,to_email,subject,body,status,pdf_url,draft_id,note
+INV-2026-0001,,,,,,,
+INV-2026-0002,custom@example.com,【請求書】INV-2026-0002（見本）,ご確認をお願いします（見本・架空データ）。,,,,
+INV-2026-0003,,,,,,,
